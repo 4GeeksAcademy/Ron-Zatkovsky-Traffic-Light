@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.glow{
+    -webkit-box-shadow:0px 0px 105px 45px rgba(214,210,137,0.9);
+    -moz-box-shadow: 0px 0px 105px 45px rgba(214,210,137,0.9);
+    box-shadow: 0px 0px 105px 45px rgba(214,210,137,0.9);
+}
